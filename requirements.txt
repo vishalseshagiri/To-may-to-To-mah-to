@@ -1,4 +1,5 @@
 absl-py==0.7.0
+google-cloud-texttospeech
 appdirs==1.4.3
 astor==0.7.1
 attrs==19.1.0
@@ -9,6 +10,7 @@ cached-property==1.5.1
 certifi==2018.11.29
 chardet==3.0.4
 confluent-kafka==0.11.6
+converter
 decorator==4.3.2
 defusedxml==0.5.0
 entrypoints==0.3
@@ -87,4 +89,5 @@ wcwidth==0.1.7
 Werkzeug==0.14.1
 widgetsnbextension==3.4.2
 zeep==3.2.0
-wave
+setuptools
+moviepy
