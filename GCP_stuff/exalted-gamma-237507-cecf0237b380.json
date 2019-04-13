@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "exalted-gamma-237507",
+  "private_key_id": "cecf0237b3809b313bb56b3fcea92e30ec7bb43a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+cnt4BMSTowUJ\nIEXUMoTJsK4uR2nTYu7ug/t1JU8hmSkKcKCFJIE//XregwjKSrv/4BidwCcUa6Hv\nTR33xntCYomHAnh0Mk2lgN3haMVkHbx+MFD+/W+fTN9o2VKRurSkIwUmfIemyZxy\n2bY2rMTUG8H00ohFiXkcm+HT0RBSD7uAD0Y24Rn4ONtdagKvu7nv9px81+xBCDSk\n3jfZidBpNWfOYFurVG3WfxBm93n60nBXh0ykqpT0wQqrhI2gLx+gjpPjIqFZmAHH\nNiTfsU4bqj4oHR4g/W3vNFlRdzJt0wGhxyIevNjnm2r1g1IU2+UzJIAywK73IeTO\nkARAIJcpAgMBAAECggEAKupBSFpKsboaeGP9WEPKCGj31xXgkvHIRZcYIt21ZyzM\nQr3+bgI73d+QwHNml68fjhlBcsrKA5/9bZ9DEYJ4ZA0wUGwOGKD9Pj47wX+Ke3T3\n9LeOiOczMAJylX3jTVN1QUdi8bk+GCd2SasllEx6ThGzMyf97S19TSUTTlfeBZ+C\nbZUNPubI2OSJ+vD0GV4SFUO/G3108pglUSoLxkilbLVjdlQqIQV/Hz6hZXSQvL31\nqIQcZhntxCTa+ltCcxNqkFJ1iAezPTpzO5VJRjxiwV347rIWArvT7aM3JFfG9qkL\nLtZqzGKdfgLedtZhYaXyvxYeaNTBp5ygqgQ+gwn1wQKBgQDdOiYUj3KJ1NKYi+JN\nCcOh2GCnAiyYJWkyLCtc5iR0yCdrqL4D73hrhWnqRQqzWnlGwWSb3s/jvCm0KMxt\nB9G92mJmL1D4FISSHkIuAT1gZAvD+DnTNlI174GYahp6a/c8D1P2Trd79LMZLevw\npbKrFpDgOs4GGDbRIDGQjRQvRwKBgQDcYctUQUt7V5Z4onejt/WtQIiR6+Pm1B0R\n15DLIr9LuhtLi5GxgeX9y/2QAwj1ehh/LWccw82W59XCI3pVC12zQInS0zVQbior\n4WLSnOYLJ++Qbu8jK9DS4IKwIaAyoDqYgPLdjKsNDzEMRbRcTXlOjHmYxoYIESZJ\npoSUTRyeDwKBgQDNPKUXbf1U4Zx+6UeJMQXNoHAKgHnerNZrNY8FIH2x2f64YlPm\nUsPk/GDGdkb3HXhlrAUqlgtHu8j02uTMQfTTrUachkkX3fEfnfLHu161jhtcM21y\nBXM/lnMkc0sdSAyWK6I5X83Zsap2MaQyHYckMks1u1hnTw+L89IHyNpxAQKBgQCh\nKwPAAmBpO4zXfDlyib4pjeBSluh8jvMTcUp6xFaR0vDTNqa94fmIuf4dq5qJq1ju\n6Q1Xg/p+Od2htMBqIX3M8Y3ZmIyM3YQJwzK6Q/QYhIQ2ZGqOliSJk5b/qBe37mXr\n0aHLVGxjiJCeIPvd5Oqp/yGOEOFEVQZjJlwe+KXNEQKBgB6UV/YzGukTb05hEQf+\nM1yP+SRMwqU4kAfr7LM18ZGiLhVzd0so/zWAoOLwltKch3vals20DMtyoac77sia\nEAX/UpjUr34MYcrVgW1iKw/KqyBHOn+sJmdtrdorSiLvDogC72Uf0XazIjDMoaRv\nHe5UzL73BEUP+q/ujiitb2tx\n-----END PRIVATE KEY-----\n",
+  "client_email": "servicehacksc@exalted-gamma-237507.iam.gserviceaccount.com",
+  "client_id": "107115948275278919856",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/servicehacksc%40exalted-gamma-237507.iam.gserviceaccount.com"
+}
